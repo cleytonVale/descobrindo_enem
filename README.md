@@ -1,5 +1,3 @@
-# descobrindo_enem
-# descobrindo_enem
 # Descobrindo ENEM
 
 ## 📌 Sobre o Projeto
