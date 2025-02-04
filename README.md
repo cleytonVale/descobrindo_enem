@@ -49,7 +49,7 @@ O **Descobrindo ENEM** é um projeto de análise e transformação de dados util
 Sinta-se à vontade para abrir issues e pull requests para contribuir com o projeto! 😃
 
 ---
-📌 **Mantenedor:** [Seu Nome]  
-📧 **Contato:** seuemail@email.com
+📌 **Mantenedor:** Cleyton Vale
+
 
 
